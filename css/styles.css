@@ -1,10 +1,20 @@
 /*GLOBAL STYLES*/
+html, body {
+  height: 100%;
+  background-color: #2D3354;
+  color: #fff;
+}
+
 .container-fluid {
   padding: 0;
 }
 
 .margin {
   margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
 }
 
 h2 {
@@ -22,6 +32,14 @@ h2 {
   padding: 0;
   margin: 0;
   z-index: -100;
+}
+
+/* INTRO TXT */
+.app-info img {
+  height: 400px;
+  width: auto;
+  display: block;
+  margin: auto;
 }
 
 /*DEMO VIDEO*/
@@ -57,6 +75,10 @@ h2 {
   width: auto;
   display: block;
   margin: auto;
+}
+
+.icon-title {
+  text-align: center;
 }
 
 /*YOUTUBE PLAYLIST*/
