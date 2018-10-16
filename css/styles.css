@@ -15,6 +15,7 @@ html, body {
 
 h1 {
   text-align: center;
+  color: #D7DF23;
 }
 
 h2 {
@@ -99,6 +100,6 @@ h2 {
   /*FOOTER*/
   #footer {
     height: 50px;
-    background-color: #000;
+    background-color: #7E7E96;
     margin: 50px 0 0 0;
   }
