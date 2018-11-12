@@ -45,10 +45,14 @@ li {
 
 /* INTRO TXT */
 .app-info img {
-  height: 400px;
-  width: auto;
+  height: 550px;
+  width: 100%;
   display: block;
   margin: auto;
+}
+
+.about-txt {
+  margin-top: 20px;
 }
 
 /*DEMO VIDEO*/
@@ -142,5 +146,12 @@ li {
 @media (max-width: 700px) {
   #header-section {
     height: 200px;
+  }
+
+  .app-info img {
+    height: 200px;
+    width: 100%;
+    display: block;
+    margin: auto;
   }
 }
