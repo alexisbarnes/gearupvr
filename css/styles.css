@@ -10,7 +10,7 @@ html, body {
 }
 
 .margin {
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 h1 {
@@ -39,7 +39,8 @@ li {
   background: url('../assets/banner.png');
   background-position: center;
   background-size: cover;
-  height: 400px; width: 100%;
+  height: 400px; 
+  width: 100%;
 }
 
 /* INTRO TXT */
@@ -115,17 +116,17 @@ li {
   /* FOOTER */
   .footer {
     position: relative;
-    margin-top: 40px; /* negative value of footer height - pushes footer to bottom of page*/
-    height: 115px;
+    margin-top: 130px; /* negative value of footer height - pushes footer to bottom of page*/
+    height: -100px;
     clear: both;
-    padding-top: 20px;
+    padding-top: 30px;
     background-color: #7E7E96;
     color: #fff;
   }
 
   .footer-text {
     text-align: center;
-    padding: 20px 0 20px 0;
+    padding: 0px 0px;
   }
 
   .footer-text a {
