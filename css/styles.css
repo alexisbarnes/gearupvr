@@ -75,8 +75,9 @@ li {
 }
 
 /*DOWNLOAD*/
-.instructions {
+.qr-instructions {
   text-align: center;
+  margin-top: 10px;
 }
 
 .link-instructions {
