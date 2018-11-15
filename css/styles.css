@@ -75,6 +75,19 @@ li {
 }
 
 /*DOWNLOAD*/
+.instructions {
+  text-align: center;
+}
+
+.link-instructions {
+  color: #7E7E96;
+}
+
+.link-instructions:hover {
+  text-decoration: none;
+  color:#D7DF23;
+}
+
 .qrcode img {
   display: block;
   margin: auto;
