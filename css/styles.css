@@ -94,6 +94,11 @@ li {
   margin: auto;
 }
 
+.directions {
+  color: #7E7E96;
+  text-align: center;
+}
+
 .appstore {
   height: 50px;
   width: auto;
